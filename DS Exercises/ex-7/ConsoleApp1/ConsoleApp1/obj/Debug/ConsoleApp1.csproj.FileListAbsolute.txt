@@ -1,0 +1,8 @@
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\DS Exercises\ex-7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
