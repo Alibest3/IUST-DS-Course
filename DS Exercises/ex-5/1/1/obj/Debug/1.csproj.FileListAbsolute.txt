@@ -1,0 +1,8 @@
+E:\DS Exercises\ex-5\1\1\bin\Debug\1.exe.config
+E:\DS Exercises\ex-5\1\1\bin\Debug\1.exe
+E:\DS Exercises\ex-5\1\1\bin\Debug\1.pdb
+E:\DS Exercises\ex-5\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+E:\DS Exercises\ex-5\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+E:\DS Exercises\ex-5\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\DS Exercises\ex-5\1\1\obj\Debug\1.exe
+E:\DS Exercises\ex-5\1\1\obj\Debug\1.pdb
